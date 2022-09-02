@@ -1,0 +1,2 @@
+#!/bin/bash
+chowwn -h vincent:staff _hello
